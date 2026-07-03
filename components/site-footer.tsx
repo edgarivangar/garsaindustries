@@ -32,7 +32,7 @@ export function SiteFooter() {
             </p>
             <ul className="mt-6 space-y-3 text-sm text-white/75">
               <li className="flex items-center gap-3"><Mail className="size-4 text-[#5cb6ff]" />ventas@garsaindustries.com</li>
-              <li className="flex items-center gap-3"><Phone className="size-4 text-[#5cb6ff]" />Teléfono por definir</li>
+              <li className="flex items-center gap-3"><Phone className="size-4 text-[#5cb6ff]" />56 6264 6379</li>
               <li className="flex items-center gap-3"><MapPin className="size-4 text-[#5cb6ff]" />Ciudad de México, México</li>
             </ul>
           </div>
