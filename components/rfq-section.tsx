@@ -68,7 +68,7 @@ export function RfqSection() {
                     Teléfono
                   </dt>
                   <dd className="font-medium text-foreground">
-                    Teléfono por definir
+                    56 6264 6379
                   </dd>
                 </div>
               </div>
